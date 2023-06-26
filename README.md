@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanBon09
 - 👀 I’m interested in: coding in all sorts of languages, trying and learning new things, exploring niche IT communities 
-- 🌱 I’m currently learning C++, Python, PL|SQL, Cairo
+- 🌱 I’m currently learning C++, Python, SQL, C#
 - 📫 How to reach me: boniecki.jan09@gmail.com
 
 <!---
