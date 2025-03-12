@@ -8,7 +8,7 @@ In spare time I like to discover and explore niche IT communities.
 ## Technologies
 Technologies I'm currently learning and working in are: ASP.NET Core, Go, PostgreSQL, React.js.
 Technologies I want to dive into are: Spring boot, Docker, Kubernetes.
-Other technologies I have some proficiency in are: C in embedded, C++ with modern elements, Python as a data analysis tool, 
+Other technologies I have some proficiency in are: C in embedded, C++ with modern elements, Python as a data analysis tool.
 
 ## Contact
 📫Email: boniecki.jan09@gmail.com
