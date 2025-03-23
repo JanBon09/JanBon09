@@ -6,9 +6,8 @@ My main field of interest is building a complete backend solutions with a touch 
 In spare time I like to discover and explore niche IT communities.
 
 ## Technologies
-Technologies I'm currently learning and working in are: ASP.NET Core, Go, PostgreSQL, React.js.
-Technologies I want to dive into are: Spring boot, Docker, Kubernetes.
-Other technologies I have some proficiency in are: C in embedded, C++ with modern elements, Python as a data analysis tool.
+Technologies I'm currently learning and creating in are: Java, .NET, Go, Angular, React.js
+Other technologies I have proficiency in are: C in embedded, C++ with modern elements, Python as a data analysis tool.
 
 ## Contact
 📫Email: boniecki.jan09@gmail.com
