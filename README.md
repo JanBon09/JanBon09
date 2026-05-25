@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jan</h1>
-<h3 align="center">Software Engineering grad specializing in System Architecture and Backend Engineering</h3>
+<h3>Software Engineering grad specializing in System Architecture and Backend Engineering</h3>
 Currently learning and putting into practice architecture patterns and approaches like Clean Architecture, DDD and Modular Monolith. Working on systems with meaningful AI usage.
 
 ### Tech Stack
