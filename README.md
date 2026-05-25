@@ -3,11 +3,28 @@
 Currently learning and putting into practice architecture patterns and approaches like Clean Architecture, DDD and Modular Monolith. Working on systems with meaningful AI usage.
 
 ### Tech Stack
-**Backend** <img src="https://skillicons.dev/icons?i=spring,nestjs,go" />  
-**Frontend** <img src="https://skillicons.dev/icons?i=angular,typescript" />  
-**Data** <img src="https://skillicons.dev/icons?i=postgres" />  
-**DevOps** <img src="https://skillicons.dev/icons?i=docker,azure" />  
-**Tools** <img src="https://skillicons.dev/icons?i=git,arch,linux" />
+**Backend**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
 
 ### Get in touch
 
