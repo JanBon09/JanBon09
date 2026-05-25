@@ -3,21 +3,11 @@
 Currently learning and putting into practice architecture patterns and approaches like Clean Architecture, DDD and Modular Monolith. Working on systems with meaningful AI usage.
 
 ### Tech Stack
-
-**Backend**  
-<img src="https://skillicons.dev/icons?i=spring,nestjs,go" />
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=angular" />
-
-**Database**  
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-**DevOps & Cloud**  
-<img src="https://skillicons.dev/icons?i=docker,azure" />
-
-**Tools & Environment**  
-<img src="https://skillicons.dev/icons?i=git,arch,linux,windows" />
+**Backend** <img src="https://skillicons.dev/icons?i=spring,nestjs,go" />  
+**Frontend** <img src="https://skillicons.dev/icons?i=angular,typescript" />  
+**Data** <img src="https://skillicons.dev/icons?i=postgres" />  
+**DevOps** <img src="https://skillicons.dev/icons?i=docker,azure" />  
+**Tools** <img src="https://skillicons.dev/icons?i=git,arch,linux" />
 
 ### Get in touch
 
