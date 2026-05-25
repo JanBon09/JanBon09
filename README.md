@@ -1,17 +1,32 @@
 # About me
 
-## Introduction
-Hi, I’m Jan, I'm a computer science student and I have a great passion for software development.
-My main field of interest is building a complete backend solutions with a touch of necessary frontend.
-In spare time I like to discover and explore niche IT communities.
+### Introduction
+<h1 align="center">Hi, I'm Jan</h1>
+<h3 align="center">Software Engineering grad specializing in System Architecture and Backend Engineering</h3> 
 
-## Technologies
-Technologies I'm currently learning and creating in are: Java, .NET, Go, Angular, React.js
-Other technologies I have proficiency in are: C in embedded, C++ with modern elements, Python as a data analysis tool.
+### Tech Stack
 
-## Contact
-📫Email: boniecki.jan09@gmail.com
-  LinkedIn: https://www.linkedin.com/in/jan-boniecki-11007726a/
+**Backend**  
+<img src="https://skillicons.dev/icons?i=spring,nestjs,go" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=angular" />
+
+**Database**  
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+**DevOps & Cloud**  
+<img src="https://skillicons.dev/icons?i=docker,azure" />
+
+**Tools & Environment**  
+<img src="https://skillicons.dev/icons?i=git,arch,linux,windows" />
+
+### Get in touch
+
+<p>
+  <a href="mailto:boniecki.jan09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/jan-boniecki-11007726a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+</p>
 
 <!---
 JanBon09/JanBon09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
